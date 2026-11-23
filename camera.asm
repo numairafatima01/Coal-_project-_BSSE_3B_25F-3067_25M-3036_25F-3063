@@ -1,4 +1,4 @@
-; ============================================================
+Module 6: Implemented one-way scrolling camera and left-edge clamping; ============================================================
 ; FILE: src/camera.asm
 ; Module 6: Fast Horizontal Screen Scroll & Edge Column Draw
 ; ============================================================
